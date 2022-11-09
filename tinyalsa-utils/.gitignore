@@ -1,0 +1,14 @@
+# vscode
+.vscode
+
+# *.out
+*.[oa]
+*.so
+
+# audio
+*.wav
+*.raw
+
+tinycap
+tinyplay
+tinycaplay

@@ -1,0 +1,13 @@
+# vscode
+.vscode
+
+# *.out
+*.[oa]
+*.so
+
+# audio
+*.wav
+*.raw
+
+capws
+snr
